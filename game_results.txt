@@ -1,0 +1,48 @@
+
+RULES:
+You get 2 points each time you win,
+1 point each time it's a tie &
+0 if you lose.
+
+How many games do you want to play : 10
+What's your move ?? : Rock
+Move by computer : Rock
+It's a tie !!
+
+What's your move ?? : Rock
+Move by computer : Paper
+Better Luck Next Time !
+
+What's your move ?? : Scissor
+Move by computer : Paper
+You won !!
+
+What's your move ?? : Scissor
+Move by computer : Paper
+You won !!
+
+What's your move ?? : Rock
+Move by computer : Scissor
+You won !!
+
+What's your move ?? : Paper
+Move by computer : Paper
+It's a tie !!
+
+What's your move ?? : Paper
+Move by computer : Paper
+It's a tie !!
+
+What's your move ?? : Rock
+Move by computer : Rock
+It's a tie !!
+
+What's your move ?? : Scissor
+Move by computer : Scissor
+It's a tie !!
+
+What's your move ?? : Paper
+Move by computer : Rock
+You won !!
+
+Your score is : 13
