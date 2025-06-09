@@ -19,7 +19,7 @@ while (cap.isOpened()):
 
     ret, frame = cap.read()
     if not ret:
-        print('End of video')
+        print('End of video or error in opening the file')
         break
 
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
