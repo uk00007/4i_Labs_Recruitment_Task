@@ -15,7 +15,7 @@ while (cap.isOpened()):
     ret, frame = cap.read()
 
     if not ret:
-        print('End of video')
+        print('End of video or error in opening the file')
         break
 
     img = np.zeros(frame.shape, np.uint8)
